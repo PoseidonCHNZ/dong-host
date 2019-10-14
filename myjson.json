@@ -1,0 +1,15 @@
+[{
+    "SNO": 1,
+    "SNUMBER": "827",
+    "STARTDATE": "11/12/2016",
+    "STARTTIME": "03:06:50 PM",
+    "ITEMNAME": "KBand",
+    "ITEMCODE": "KB2541",
+    "ITEMSKUNAME": "Band",
+    "ITEMSKUCODE": "BT102",
+    "SALESRATE": 100.0,
+    "PURCHASERATE": 5.0,
+    "DOE": "~",
+    "STOCKQTY": 2.0,
+    "PHYSICALQTY": 1.0
+  }]
